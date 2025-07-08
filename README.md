@@ -1,1 +1,1 @@
-# PROJECTS
+# CHurn Prediction Project
